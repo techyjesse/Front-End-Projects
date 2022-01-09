@@ -8,7 +8,7 @@ A basic four-function calculator styled with CSS and scripted with vanilla JavaS
 <hr>
 
  - [JavaScript Tic Tac Toe Game](https://github.com/techyjesse/Front-End-Projects/blob/main/TicTacToe.html)<br>
-Tic Tac Toe Game, 1 player vs. CPU. Coded utilizing HTML, CSS, and JavaScript.
+Tic Tac Toe Game, 1 player vs. CPU. Coded utilizing HTML, CSS, and JavaScript.<br>
 ![Tic Tac Toe](https://github.com/techyjesse/Front-End-Projects/blob/main/img/ticTacToe.png?raw=true)
 <hr>
 
