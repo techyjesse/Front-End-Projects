@@ -18,6 +18,7 @@ A monthly budget tracker CRUD app that inputs incomes and expenses. Expenses are
 ![Budget Tracker](https://github.com/techyjesse/Front-End-Projects/blob/main/img/budget.png?raw=true)
 <hr>
 
- - [Full-Screen Video Landing Page](https://github.com/techyjesse/Front-End-Projects/blob/main/landingpage.html)<br>
-An example landing page with a full-screen auto-looped background video. Serves as a template that can have secions and pages added to it.<br>
+ - [JavaScript Pop-up Form](https://github.com/techyjesse/Front-End-Projects/blob/main/pop_up_Form.html)<br>
+Basic pop-up form utilizing HTML, CSS, and JavaScript.<br>
+![Pop-Up Form](https://github.com/techyjesse/Front-End-Projects/blob/main/img/pop-up%20form.png?raw=true)
 <hr>
