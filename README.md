@@ -1,6 +1,10 @@
 # Front-End-Projects
 <h2>A collection of front-end projects to display HTML/CSS/JS/Bootstrap</h2>
 
+- [JavaScript Drumset](https://github.com/techyjesse/Front-End-Projects/blob/main/drumset.html)<br>
+A basic keyboard drumset utlizing vanilla JavaScript and styled with CSS.<br>
+![Drumset](https://github.com/techyjesse/Front-End-Projects/blob/main/img/drumset.png?raw=true)
+<hr>
 
  - [JavaScript Calculator](https://github.com/techyjesse/Front-End-Projects/blob/main/calculator.html)<br>
 A basic four-function calculator styled with CSS and scripted with vanilla JavaScript.<br>
