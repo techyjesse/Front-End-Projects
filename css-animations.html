@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <style>
+            .reveal{
+                position: relative;
+                transform: translateY(150px);
+                opacity: 0;
+                transition: 2s all ease;
+            }
+            .reveal.active{
+            transform: translateY(0);
+            opacity: 1;
+            }
+
+        </style>
+    </head>
+
+    <body>
+        <section class="container">
+            <h2>Caption</h2>
+            <div class="text-container">
+              <div class="text-box">
+                <h3>Section Text</h3>
+                <p>Random text</p>
+              </div>
+              <div class="text-box">
+                <h3>Section Text</h3>
+                <p>Random text</p>
+              </div>
+              <div class="text-box">
+                <h3>Section Text</h3>
+                <p>Random text</p>
+              </div>
+            </div>
+          </section>
+
+          <script>
+              function reveal() {
+  var reveals = document.querySelectorAll(".reveal");
+  for (var i = 0; i < reveals.length; i++) {
+    var windowHeight = window.innerHeight;
+    var elementTop = reveals[i].getBoundingClientRect().top;
+    var elementVisible = 150;
+    if (elementTop < windowHeight - elementVisible) {
+      reveals[i].classList.add("active");
+    } else {
+      reveals[i].classList.remove("active");
+    }
+  }
+}
+          </script>
+    </body>
+</html>
